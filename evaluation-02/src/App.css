@@ -1,0 +1,22 @@
+.App{
+  text-align: center;
+}
+.controls{
+  
+  width:300px;
+  margin: auto;
+ text-align: center;
+}
+table{
+  width: 700px;
+  margin: auto;
+  
+}
+table, th, td {
+  border: 1px solid;
+  padding: 2px;
+}
+form{
+  width: 500px;
+  margin: auto;
+}
