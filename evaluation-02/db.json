@@ -87,10 +87,17 @@
       "tenth_score": 43,
       "twelth_score": 74,
       "preferred_branch": "commerce"
+    },
+    {
+      "first_name": "tushar",
+      "last_name": "ahire",
+      "email": "user@gmail.com",
+      "gender": "male",
+      "age": "23",
+      "tenth_score": "78",
+      "twelth_score": "85",
+      "preferred_branch": "commerce",
+      "id": 9
     }
-   
-     
-     
-     
   ]
 }
